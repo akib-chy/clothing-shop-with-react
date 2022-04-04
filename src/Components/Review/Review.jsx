@@ -1,11 +1,14 @@
 import React from "react";
+import "./Review.css";
 
 const Review = ({ clint }) => {
   const { name, img, clintReview, rating } = clint;
   return (
     <div className="col">
       <div className="card h-100">
-        <img src={img} className="card-img-top" alt="..." />
+        <div className="p-5 card-img">
+          <img src={img} className="card-img-top " alt="..." />
+        </div>
         <div className="card-body">
           <h5 className="card-title mb-4">Name: {name}</h5>
           <h5>Rating: {rating} star</h5>
