@@ -10,10 +10,17 @@ function CustomLink({ children, to, ...props }) {
     <div
       className="custom-link"
       style={{
-        borderColor: match ? "red" : "lightgray",
+        borderColor: match ? "#137ae0" : "lightgray",
       }}
     >
-      <Link to={to} {...props}>
+      <Link
+        to={to}
+        {...props}
+        style={{
+          fontWeight: match ? "bold" : "normal",
+          color: match ? "#137ae0" : "black",
+        }}
+      >
         {children}
       </Link>
     </div>

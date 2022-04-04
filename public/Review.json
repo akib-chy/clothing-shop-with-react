@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "David F",
+    "clintReview": "Everything about this hoodie is Review by David F. on 31 Mar 2022review stating Everything about this hoodie isEverything about this hoodie is great. It is extremely comfortable in fit and material. Will buy another color. Love it!",
+    "rating": 5,
+    "img": "./img/clint-01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Clyde B",
+    "clintReview": "jerzee brand are head and Review by clyde b. on 27 Mar 2022review stating jerzee brand are head andjerzee brand are head and shouders above other brands",
+    "rating": 4,
+    "img": "./img/clint-02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carmen F",
+    "clintReview": "Great selection of Jerzee t- shirts.Easy to order on line.T- shirts are of good quality, no ironing needed, wash up well.I would order these again.",
+    "rating": 5,
+    "img": "./img/clint-03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Debra B",
+    "clintReview": "The colors are great the fit is large, but I buy a big size purposefully to layer with other tops. These fit my need!",
+    "rating": 3,
+    "img": "./img/clint-04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Willam C",
+    "clintReview": "The jersey is comfortable and warm. I buy them big purposefully for my comfort! It is perfect for these cool days in South Carolina!",
+    "rating": 5,
+    "img": "./img/clint-05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Patrick ",
+    "clintReview": "Ordered about 100 last year for my staff. Had our emblem put on them. I still have a few myself, looking to order another 100 or so. how do I add pictures?",
+    "rating": 4,
+    "img": "./img/clint-06.jpg"
+  }
+]

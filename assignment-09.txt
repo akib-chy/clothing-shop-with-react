@@ -1,9 +1,9 @@
-01/ Header section a name and ekta img thakbe .
-02/ website a ekta navigation bar thakte hobe.
-03/ header section a kiso likha ase jaikhane site niya kiso likte hobe.
-04/ coustomer reviow dekhaite hobe jakono 6ta.
+01/ Header section a name and ekta img thakbe . (DONE)
+02/ website a ekta navigation bar thakte hobe. (DONE)
+03/ header section a kiso likha ase jaikhane site niya kiso likte hobe. (DONE)
+04/ coustomer reviow dekhaite hobe jakono 6ta. (DONE)
 05/ navigation a otoba see review button a click korle sob riveow dekhabe .
-		riveow a first a name thakbe and ki review disa ta thakbe and tar ekta rating thakbe 
+		riveow a first a name thakbe and ki review disa ta thakbe and tar ekta rating thakbe (DONE)
 
 optional//// je riveow disa tar img thakbe.
 

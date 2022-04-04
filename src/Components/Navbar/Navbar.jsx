@@ -8,7 +8,11 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
         <Link className="navbar-brand fw-bold text-danger fs-4" to="/">
-          Fashion <small className="text-success fs-5">Design</small>
+          <img
+            className="img-fluid nav-logo"
+            src="https://cdn.clothingshoponline.com/cdn-cgi/image/quality=80,w=1349,f=auto/Images/Logos/CSO_Horizontal1.png"
+            alt=""
+          />
         </Link>
         <button
           className="navbar-toggler"
