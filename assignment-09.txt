@@ -1,0 +1,30 @@
+01/ Header section a name and ekta img thakbe .
+02/ website a ekta navigation bar thakte hobe.
+03/ header section a kiso likha ase jaikhane site niya kiso likte hobe.
+04/ coustomer reviow dekhaite hobe jakono 6ta.
+05/ navigation a otoba see review button a click korle sob riveow dekhabe .
+		riveow a first a name thakbe and ki review disa ta thakbe and tar ekta rating thakbe 
+
+optional//// je riveow disa tar img thakbe.
+
+06/ ekta 404 roure banaite hobe.
+07/ minimam 6ta commit korte hobe.
+08/ page relode dila 404 dekhabe na.
+09/ deshbord a jaikono 2ta chart dekhaite hobe.
+10/ site er title ta chaing korte hobe. ///////optional///////// fabicon chaing kora optional 
+
+
+//////BONUS MARKS///////
+01/ Redmi file a website er name thakte hobe . live site er link thakte hobe and 4ta bulet point a site a ki ki ase ta likte hobe.
+02/ reviow ar jonno ekta coustom hoke banaite hobe.
+03/ home page a 3ta reviow dekhabe and see all a click korle sob dekhabe.
+04/ blogs a 3ta theke jaikono 2ta question er ans dita hobe. sorbosso 5-10line.
+ 	 01/ what is context api?
+	 02/ what is simantic tag?
+	 03/ inline blogs and inline blogs element er difarent ki?
+
+
+//////////OPTION/////////
+01/ active coustom link.
+02/ site responsive optional. 
+03/ 
