@@ -18,9 +18,9 @@ optional//// je riveow disa tar img thakbe.
 01/ Redmi file a website er name thakte hobe . live site er link thakte hobe and 4ta bulet point a site a ki ki ase ta likte hobe.
 02/ reviow ar jonno ekta coustom hoke banaite hobe.(DONE)
 03/ home page a 3ta reviow dekhabe and see all a click korle sob dekhabe.(DONE)
-04/ blogs a 3ta theke jaikono 2ta question er ans dita hobe. sorbosso 5-10line.
- 	 01/ what is context api?
-	 02/ what is simantic tag?
+04/ blogs a 3ta theke jaikono 2ta question er ans dita hobe. sorbosso 5-10line. (DONE)
+ 	 01/ what is context api? (DONE)
+	 02/ what is simantic tag? (DONE)
 	 03/ inline blogs and inline blogs element er difarent ki?
 
 
