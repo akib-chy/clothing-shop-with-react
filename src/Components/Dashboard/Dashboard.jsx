@@ -1,5 +1,5 @@
 import React from "react";
-import WebsiteLineChart from "../LineChart/WebsiteLineChart";
+import AllRechart from "../AllRechart/AllRechart";
 
 const Dashboard = () => {
   return (
@@ -7,7 +7,7 @@ const Dashboard = () => {
       <div className="container mt-5">
         <h1 className="text-center text-primary">Welcome Dashbord Section</h1>
         <div>
-          <WebsiteLineChart></WebsiteLineChart>
+          <AllRechart />
         </div>
       </div>
     </div>

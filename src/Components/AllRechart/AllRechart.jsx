@@ -6,8 +6,6 @@ import {
   YAxis,
   CartesianGrid,
   Tooltip,
-  Legend,
-  ResponsiveContainer,
   AreaChart,
   Area,
   BarChart,
@@ -16,7 +14,7 @@ import {
   Pie,
 } from "recharts";
 
-const WebsiteLineChart = () => {
+const AllRechart = () => {
   const data = [
     {
       month: "Mar",
@@ -144,4 +142,4 @@ const WebsiteLineChart = () => {
   );
 };
 
-export default WebsiteLineChart;
+export default AllRechart;
