@@ -6,7 +6,7 @@ import HeaderClintReview from "../HeaderClintReview/HeaderClintReview";
 import "./Home.css";
 
 const Home = () => {
-  const [clints, setClints] = useClints();
+  const [clints] = useClints();
   return (
     <div className="container">
       <div className="row d-flex align-items-center">
